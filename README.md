@@ -1,4 +1,4 @@
-<h1 align="center">Yavuz</h1>
+<h1 align="center">Yavuzhan Karataş</h1>
 <h3 align="center">C# & Python Developer</h3>
 
 <p align="center">
@@ -8,7 +8,7 @@
 <br/>
 
 <p align="center">
-  🎓 Computer Programming Student <br/>
+  🎓 Computer Programming Student in Ankara Bilim University <br/>
   📚 6 months Software Development Training at Vektörel Bilişim (Ankara) <br/>
   💻 Intermediate in C#, Python and SQL <br/>
   🚀 Building real-world AI & Web projects
