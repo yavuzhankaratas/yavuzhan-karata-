@@ -32,7 +32,6 @@ Virtual POS design website
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="48"/>
   <img src="https://skillicons.dev/icons?i=python" height="48"/>
-  <img src="https://skillicons.dev/icons?i=sql" height="48"/>
   <img src="https://skillicons.dev/icons?i=git" height="48"/>
   <img src="https://skillicons.dev/icons?i=github" height="48"/>
 </p>
