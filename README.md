@@ -1,4 +1,4 @@
-<h1 align="center">Yavuz</h1>
+<h1 align="center">Yavuzhan Karataş</h1>
 <h3 align="center">C# & Python Developer</h3>
 
 <p align="center">
@@ -10,8 +10,8 @@
 ## 👨‍💻 About Me
 - 🎓 Computer Programming Student  
 - 📚 6 months Software Development training at Vektörel Bilişim (Ankara)  
-- 💻 Intermediate level in **C#**, **Python**, and **SQL**  
-- 🚀 Building real-world web and AI projects  
+- 💻 Intermediate in C#, Python and SQL  
+- 🚀 Building real-world AI & Web projects  
 
 ---
 
@@ -30,15 +30,9 @@ Virtual POS design website
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,python,sql,git,github" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=cs" height="48"/>
+  <img src="https://skillicons.dev/icons?i=python" height="48"/>
+  <img src="https://skillicons.dev/icons?i=sql" height="48"/>
+  <img src="https://skillicons.dev/icons?i=git" height="48"/>
+  <img src="https://skillicons.dev/icons?i=github" height="48"/>
 </p>
